@@ -2,7 +2,6 @@ package main
 
 import "log"
 
-//
 // @property {string} id - The unique identifier for the customer.
 type Customer struct {
 	id string
