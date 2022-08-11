@@ -4,7 +4,7 @@ package main
 // @property {string} name - The name of the gun.
 // @property {int} power - The power of the gun.
 type Gun struct {
-	name string
+	name  string
 	power int
 }
 

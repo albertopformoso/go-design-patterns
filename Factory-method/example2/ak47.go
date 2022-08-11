@@ -10,7 +10,7 @@ type Ak47 struct {
 func newAk47() IGun {
 	return &Ak47{
 		Gun: Gun{
-			name: "Ak47 gun",
+			name:  "Ak47 gun",
 			power: 4,
 		},
 	}
